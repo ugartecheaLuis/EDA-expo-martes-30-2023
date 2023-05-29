@@ -4,7 +4,6 @@
 typedef struct{
     int met;
     int val;
-    int len;
 }precio;
 
 int buscar(precio *, int );
